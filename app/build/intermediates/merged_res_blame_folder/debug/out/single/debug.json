@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\layout_music_view_holder.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\layout\\music_view_holder.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\drawable_music_play_player_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\drawable\\music_play_player_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\drawable_main_logo.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\drawable\\main_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\drawable_logo.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\drawable\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.inmymusic.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.inmymusic.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\8.0\\com.example.inmymusic.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

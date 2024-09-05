@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color tint_color
+color white
+drawable gradient_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+drawable main_logo
+drawable music_play_player_svgrepo_com
+id image_view_holder
+id play_button_view
+id re1
+id recycler_for_music_list
+id title_music_view
+layout activity_main
+layout activity_splash_screen
+layout music_view_holder
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.InMyMusic
+style Theme.InMyMusic
+xml backup_rules
+xml data_extraction_rules
